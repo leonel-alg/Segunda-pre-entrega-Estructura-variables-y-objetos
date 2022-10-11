@@ -1,0 +1,1 @@
+ingresa el numero del cliente y el monto a depositar estestos datos sera guardado n veces hasta que indique el nuemro de cliente 0 luego se mostrara la cantidad de clientes que ingresaron y la suma de todo el dineo ingresado por esos clientes 
